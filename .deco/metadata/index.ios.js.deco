@@ -1,0 +1,160 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 21,
+					"ch": 20
+				},
+				"to": {
+					"line": 21,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "Height",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 22,
+					"ch": 19
+				},
+				"to": {
+					"line": 22,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "Width",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 24,
+					"ch": 25
+				},
+				"to": {
+					"line": 24,
+					"ch": 42
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BorderColor",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 26,
+					"ch": 23
+				},
+				"to": {
+					"line": 26,
+					"ch": 33
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Placeholder",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 27,
+					"ch": 32
+				},
+				"to": {
+					"line": 27,
+					"ch": 53
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "PlaceholderTextColor",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 34,
+					"ch": 20
+				},
+				"to": {
+					"line": 34,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "Height",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 35,
+					"ch": 19
+				},
+				"to": {
+					"line": 35,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "Width",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 37,
+					"ch": 25
+				},
+				"to": {
+					"line": 37,
+					"ch": 42
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BorderColor",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 39,
+					"ch": 23
+				},
+				"to": {
+					"line": 39,
+					"ch": 33
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Placeholder",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 41,
+					"ch": 32
+				},
+				"to": {
+					"line": 41,
+					"ch": 53
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "PlaceholderTextColor",
+			"group": "TEXT INPUT"
+		}
+	]
+}
